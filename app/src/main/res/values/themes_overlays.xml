@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme.Overlay" parent="ThemeOverlay.Material3.DynamicColors.Light">
+        <item name="colorPrimary">@color/md_theme_dark_tertiaryContainer</item>
+        <item name="colorOnPrimary">@color/md_theme_dark_tertiaryContainer</item>
+        <item name="colorPrimaryContainer">@color/md_theme_dark_onTertiary</item>
+        <item name="colorOnPrimaryContainer">@color/md_theme_dark_onTertiary</item>
+    </style>
+</resources>
